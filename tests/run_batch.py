@@ -45,9 +45,9 @@ SHEET_CONFIG = {
 }
 
 WORKER = {
-    "qnodes":            ROOT / "tests" / "_worker_qnodes.py",
-    "geomip":            ROOT / "tests" / "_worker_geomip.py",
-    "geomip-recursivo":  ROOT / "tests" / "_worker_geomip_recursivo.py",
+    "qnodes":            ROOT / "gui" / "logica" / "_worker_qnodes.py",
+    "geomip":            ROOT / "gui" / "logica" / "_worker_geomip.py",
+    "geomip-recursivo":  ROOT / "gui" / "logica" / "_worker_geomip_recursivo.py",
 }
 
 # Umbral de mecanismo seguro para 25A con 16 GB RAM
