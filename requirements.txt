@@ -1,8 +1,10 @@
 colorama>=0.4.6
 customtkinter>=5.2.2
+matplotlib>=3.7.0
 numpy>=1.24,<2.0
 openpyxl>=3.1.0
 pandas>=2.0.0
 pyemd>=1.0.0
 pyinstrument>=4.0.0
 pyttsx3>=2.90
+seaborn>=0.12.0
